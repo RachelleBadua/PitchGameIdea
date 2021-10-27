@@ -1,0 +1,64 @@
+Pitch a game idea  - pre-production phase 
+by Rachelle Badua 
+
+Game idea (short description):
+My game idea is about a girl who is in the jungle trying to survive.
+There are enemies and there are power ups where they can help the 
+character win the level. The character must avoid the enemies or try
+to kill them with a weapon. 
+
+Scenario and characters description (include placeholder graphics, 
+drafts, references):
+The scenario of the game would be in a jungle. The scenario would be
+horizontal. The main character’s description is a young teenage girl 
+who happens to be in the jungle, and she encounters enemies and tries 
+to survive to get home. Her name is May, and she is 18 years old. 
+She went on an adventure in the Amazon jungle.
+
+Characters’ actions and goals:
+- May (main character): jump, move left and right, and shoot or hit 
+enemy (depends on the weapon) so they can disappear.
+- Enemy 1: goes for the main character, tries to eliminate the main 
+character (less strong) ex: 20 points
+- Enemy 2: can shoot or hit main character, tries to eliminate the 
+main character (hit main character, they will lose points) 
+ex: 30-45 points
+- Enemy 3: goes for main character, tries to eliminate the main 
+character (stronger, so main character loses more points) 
+ex: 100 points
+- Coconut: help main character (add more points) ex: 30 points
+- Banana: help main character (add more points) ex: 10-20 points
+
+Game Win/Lose conditions:
+ Win conditions:
+-If the main character gets a score greater or equal than the 
+score(will be specified), and she does not lose all her lives,
+then she wins.
+ Lose conditions:
+-If the main character does not get a score greater or equal than
+the score (will be specified), then they will lose the game. If the
+main character loses all her lives, then she dies too.
+ 
+Progression of levels:
+- In the first level, there is only enemy 1, that the main character
+must survive.
+-In the second level, there are enemy 1, enemy 2, that the main
+character must survive.
+- In the third level, there are enemy 1, enemy 2, and enemy 3, 
+that the main character must survive.
+
+Source of inspiration (other games, movies, etc, that inspired
+your idea):
+My source of inspiration is Jumanji. The movie takes place in a 
+jungle full of mysterious creature. The characters are trying to 
+survive to get home since they were transported from the real world 
+into the game universe of Jumanji, and since they are real people, 
+if they lose the 3 lives, they were given, they will never get back 
+to the real world. So, I wanted to create a game with that concept. 
+
+What skills/interests you are looking for in a teammate:
+I am looking for people who are interested in this concept of jungle 
+and survival, people who can code and who can edit pictures or create 
+for the animation of the game.
+
+P.S, we can edit anytime the game idea
